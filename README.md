@@ -1,16 +1,28 @@
 ## Hi there 👋
+I'm Sajid, a passionate software developer with a love for building innovative solutions. I specialize in frontend development, and I'm also diving into Data Science and AI.
 
-<!--
-**sezid/sezid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- **Languages:** HTML, CSS, JavaScript, Python
+- **Frameworks:** React, Spring Boot
+- **Tools:** Git, MongoDB, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📚 Currently Learning:
+- Frontend Devlopment
+- React.js
+- AI and Machine Learning
+
+
+### 🚀 Featured Projects:
+- [Food Delivery Site](https://github.com/sezid/khidaaa)
+- [Portfolio](https://github.com/sezid/my-profile)
+- [Ecommerce Clothing Store](https://github.com/sezid/e-commerce)
+
+
+### 🤝 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/sezid)
+- [Portfolio](https://sezid.netlify.app/)
+- [Facebook](https://www.facebook.com/itssezid)
+
+

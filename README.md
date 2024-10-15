@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Sajid, a passionate software developer with a love for building innovative solutions. I specialize in frontend development, and I'm also diving into Data Science and AI.
+I'm Sajid, a passionate software developer with a love for building innovative solutions. I specialize in frontend development, but I'm also diving into Data Science and AI.
 
 
 ### 🔧 Tech Stack

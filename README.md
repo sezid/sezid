@@ -15,6 +15,7 @@ I'm Sajid, a passionate software developer with a love for building innovative s
 
 
 ### 🚀 Featured Projects:
+- [LIIA Smart Inc](https://www.liiasmart.com)
 - [Food Delivery Site](https://github.com/sezid/khidaaa)
 - [Portfolio](https://github.com/sezid/my-profile)
 - [Ecommerce Clothing Store](https://github.com/sezid/e-commerce)

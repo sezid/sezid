@@ -3,15 +3,18 @@ I'm Sajid, a passionate software developer with a love for building innovative s
 
 
 ### 🔧 Tech Stack
-- **Languages:** HTML, CSS, JavaScript, Python
-- **Frameworks:** React, Spring Boot
-- **Tools:** Git, MongoDB, MySQL
+- **Languages:** HTML, CSS, JavaScript, Python, Java, C
+- **Frameworks:** React, Spring Boot, Tailwind CSS
+- **Libries:** Numpy, Pandas, Matplotlib, Seaborn, ScikitLearn, Keras, Tensorflow
+- **Tools:** Git, MongoDB, MySQL, Power BI
 
 
 ### 📚 Currently Learning:
 - Frontend Devlopment
 - React.js
-- AI and Machine Learning
+- AI/LLM Development
+- Machine Learning
+- Node.js
 
 
 ### 🚀 Featured Projects:

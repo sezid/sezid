@@ -3,10 +3,11 @@ I'm Sajid, a passionate software developer with a love for building innovative s
 
 
 ### 🔧 Tech Stack
-- **Languages:** HTML, CSS, JavaScript, Python, Java, C
-- **Frameworks:** React, Spring Boot, Tailwind CSS
-- **Libries:** Numpy, Pandas, Matplotlib, Seaborn, ScikitLearn, Keras, Tensorflow
-- **Tools:** Git, MongoDB, MySQL, Power BI
+- **Languages:** HTML, CSS, JavaScript, Python, Java, C  
+- **Frameworks:** React, Tailwind CSS  
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Keras, TensorFlow  
+- **Databases:** MongoDB, MySQL  
+- **Tools:** Git, Power BI  
 
 
 ### 📚 Currently Learning:

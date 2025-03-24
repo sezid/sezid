@@ -23,6 +23,7 @@ I'm Sajid, a passionate software developer with a love for building innovative s
 - [Food Delivery Site](https://github.com/sezid/khidaaa)
 - [Portfolio](https://github.com/sezid/my-profile)
 - [Ecommerce Clothing Store](https://github.com/sezid/e-commerce)
+- [BizBuySell WebScraping](https://github.com/sezid/bizbuysell-webscraper)
 
 
 ### 🤝 Let's Connect:

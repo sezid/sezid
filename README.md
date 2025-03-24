@@ -5,7 +5,7 @@ I'm Sajid, a passionate software developer with a love for building innovative s
 ### 🔧 Tech Stack
 - **Languages:** HTML, CSS, JavaScript, Python, Java, C  
 - **Frameworks:** React, Tailwind CSS  
-- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Keras, TensorFlow  
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Keras, TensorFlow, Selenium, BeautifulSoup  
 - **Databases:** MongoDB, MySQL  
 - **Tools:** Git, Power BI  
 

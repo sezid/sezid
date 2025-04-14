@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi, I'm Sajid — a curious tech enthusiast with a strong passion for turning data into actionable insights. I specialize in frontend development and am deeply focused on data analytics, predictive modeling, and machine learning. I'm currently exploring the power of Large Language Models (LLMs) and how intelligent systems can shape the future of software engineering.
+I'm Sajid — a curious tech enthusiast with a strong passion for turning data into actionable insights. I specialize in frontend development and am deeply focused on data analytics, predictive modeling, and machine learning. I'm currently exploring the power of Large Language Models (LLMs) and how intelligent systems can shape the future of software engineering.
 
 ### 🔧 Tech Stack
 - **Languages:** HTML, CSS, JavaScript, Python, Java, C  

@@ -1,6 +1,5 @@
 ## Hi there 👋
-I'm Sajid, a passionate software developer with a love for building innovative solutions. I specialize in frontend development, but I'm also diving into Data Science and AI.
-
+Hi, I'm Sajid — a curious tech enthusiast with a strong passion for turning data into actionable insights. I specialize in frontend development and am deeply focused on data analytics, predictive modeling, and machine learning. I'm currently exploring the power of Large Language Models (LLMs) and how intelligent systems can shape the future of software engineering.
 
 ### 🔧 Tech Stack
 - **Languages:** HTML, CSS, JavaScript, Python, Java, C  
@@ -20,10 +19,12 @@ I'm Sajid, a passionate software developer with a love for building innovative s
 
 ### 🚀 Featured Projects:
 - [LIIA Smart Inc](https://www.liiasmart.com)
+- [BizBuySell WebScraping](https://github.com/sezid/hr_analytics)
+- [HR Analytics in Power BI](https://github.com/sezid/bizbuysell-webscraper)
 - [Food Delivery Site](https://github.com/sezid/khidaaa)
 - [Portfolio](https://github.com/sezid/my-profile)
 - [Ecommerce Clothing Store](https://github.com/sezid/e-commerce)
-- [BizBuySell WebScraping](https://github.com/sezid/bizbuysell-webscraper)
+
 
 
 ### 🤝 Let's Connect:

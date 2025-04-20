@@ -11,10 +11,9 @@ I'm Sajid — a curious tech enthusiast with a strong passion for turning data i
 
 ### 📚 Currently Learning:
 - Frontend Devlopment
-- React.js
 - AI/LLM Development
 - Machine Learning
-- Node.js
+- Backend Development
 
 
 ### 🚀 Featured Projects:

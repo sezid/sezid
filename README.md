@@ -24,6 +24,7 @@ I'm Sajid — a curious tech enthusiast with a strong passion for turning data i
 - [Food Delivery Site](https://github.com/sezid/khidaaa)
 - [Portfolio](https://github.com/sezid/my-profile)
 - [Ecommerce Clothing Store](https://github.com/sezid/e-commerce)
+- [Data Analysis Python Libraries](https://github.com/sezid/data-analysis)
 
 
 

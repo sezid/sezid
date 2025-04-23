@@ -18,8 +18,8 @@ I'm Sajid — a curious tech enthusiast with a strong passion for turning data i
 
 ### 🚀 Featured Projects:
 - [LIIA Smart Inc](https://www.liiasmart.com)
-- [BizBuySell WebScraper](https://github.com/sezid/hr_analytics)
-- [HR Analytics in Power BI](https://github.com/sezid/bizbuysell-webscraper)
+- [BizBuySell WebScraper](https://github.com/sezid/bizbuysell-webscraper)
+- [HR Analytics in Power BI](https://github.com/sezid/hr_analytics)
 - [Food Delivery Site](https://github.com/sezid/khidaaa)
 - [Portfolio](https://github.com/sezid/my-profile)
 - [Ecommerce Clothing Store](https://github.com/sezid/e-commerce)

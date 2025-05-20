@@ -8,7 +8,7 @@ I'm Sajid — a curious tech enthusiast with a strong passion for turning data i
 - **Databases:** MongoDB, MySQL  
 - **Tools:** Git, Power BI
 
-### 📊 Most Used Languages
+### 📊 Languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sezid&layout=compact&theme=tokyonight)
 
 

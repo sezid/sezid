@@ -6,7 +6,11 @@ I'm Sajid — a curious tech enthusiast with a strong passion for turning data i
 - **Frameworks:** React, Tailwind CSS  
 - **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Keras, TensorFlow, Selenium, BeautifulSoup  
 - **Databases:** MongoDB, MySQL  
-- **Tools:** Git, Power BI  
+- **Tools:** Git, Power BI
+
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sezid&layout=compact&theme=tokyonight)
+
 
 
 ### 📚 Currently Learning:
